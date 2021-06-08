@@ -6,4 +6,5 @@
 - 04.06.2021 Project ft_minishell (school 21). Add single quotes.
 - 05.06.2021 Project ft_minishell (school 21). Add "$?".
 - 06.06.2021 Project ft_minishell (school 21). Studied Pipe.
-- 06.06.2021 Project ft_minishell (school 21). Started Pipes.
+- 07.06.2021 Project ft_minishell (school 21). Started Pipes.
+- 08.06.2021 Project ft_minishell (school 21). Pipes continue.
