@@ -8,3 +8,4 @@
 - 06.06.2021 Project ft_minishell (school 21). Studied Pipe.
 - 07.06.2021 Project ft_minishell (school 21). Started Pipes.
 - 08.06.2021 Project ft_minishell (school 21). Pipes continue.
+- 09.06.2021 Project ft_minishell (school 21). Pipes again.

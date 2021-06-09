@@ -11,6 +11,11 @@ ansible --version
 ansible localhost -m ping
 ````
 
+###Show inventory
+````
+ansible-inventory --list
+````
+
 ###Setup Flask
 ````
 pip install Flask
