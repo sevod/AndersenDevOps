@@ -9,4 +9,4 @@
 - 07.06.2021 Project ft_minishell (school 21). Started Pipes.
 - 08.06.2021 Project ft_minishell (school 21). Pipes continue.
 - 09.06.2021 Project ft_minishell (school 21). Pipes again.
-- 10.06.2021 Project Netstat script. Not finished yet.
+- 10.06.2021 Homework [Netstat script](https://github.com/sevod/AndersenDevOps/tree/main/netstat_script). Not finished yet.
