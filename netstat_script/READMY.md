@@ -42,14 +42,13 @@ awk -F':' '/^Organization/ {print $2}' ; done
 4. `nets=$(sort <<<"$nets")` - sort strings.
 5. `nets=$(tail -n"$2" <<<"$nets")` - how many strings mast by shown. Variable $2 mast have numbers of strings. It's the second parameter of script.
 6. `nets=$(grep -oP '(\d+\.){3}\d+' <<<"$nets")` - filter. 
-7. 
-````
-while read IP; do
- whs=$(whois "$IP")
- nets=$(awk -F':' '/^Organization/ {print $2}' <<<"$whs")
-done <<< "$nets"
-````
-Loop reads all IP from variable "$nets". Then read "whois" for each IP. Then use the filter `awk -F':' '/^Organization/ {print $2}' <<<"$whs"`, after this filter will be only organization name.
+7.  ````
+        while read IP; do
+        whs=$(whois "$IP")
+        nets=$(awk -F':' '/^Organization/ {print $2}' <<<"$whs")
+        done <<< "$nets"
+    ````
+    Loop reads all IP from variable "$nets". Then read "whois" for each IP. Then use the filter `awk -F':' '/^Organization/ {print $2}' <<<"$whs"`, after this filter will be only organization name.
 8. `echo "$nets"` - end of my script. Print all organization.
 
 
