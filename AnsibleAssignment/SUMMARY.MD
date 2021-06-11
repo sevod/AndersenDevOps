@@ -10,6 +10,10 @@ ansible --version
 ````
 ansible localhost -m ping
 ````
+###Default path to inventory
+````
+/etc/ansible/hosts
+````
 
 ###Show inventory
 ````
