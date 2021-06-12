@@ -95,7 +95,7 @@ awk -F':' '/^Organization/ {print $2}' ; done
 10. `nets=$(sort <<<"$nets")` - sort strings.
 11. `nets=$(tail -n"$num" <<<"$nets")` - how many strings mast by shown. Variable $num is the second parameter of the script.
 12. `nets=$(grep -oP '(\d+\.){3}\d+' <<<"$nets")` - filter. 
-13.  ````
+13.   ````
         while read IP; do
             whs=$(whois "$IP")
             org=$(awk -F':' '/^Organization/ {print $2}' <<<"$whs")
@@ -103,8 +103,8 @@ awk -F':' '/^Organization/ {print $2}' ; done
                echo "$org"
             fi
         done <<< "$nets"
-    ````
-    Loop reads all IP from variable "$nets". Then read "whois" for each IP. Then use the filter `awk -F':' '/^Organization/ {print $2}' <<<"$whs"`, after this filter will be only name of organization. And print if it has string.
+      ````
+      Loop reads all IP from variable "$nets". Then read "whois" for each IP. Then use the filter `awk -F':' '/^Organization/ {print $2}' <<<"$whs"`, after this filter will be only name of organization. And print if it has string.
 
 
 
