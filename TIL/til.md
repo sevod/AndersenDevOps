@@ -13,3 +13,4 @@
 - 11.06.2021 Project ft_minishell (school 21). Pipes again.
 - 12.06.2021 Homework [Netstat script](https://github.com/sevod/AndersenDevOps/tree/main/netstat_script). Has been finished (first version).
 - 13.06.2021 Project ft_services (school 21). Just repeated, everything that made before.
+- 14.06.2021 Project ft_services (school 21). Made docker container with mysql server.
