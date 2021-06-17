@@ -15,4 +15,6 @@
 - 13.06.2021 Project ft_services (school 21). Just repeated, everything that made before.
 - 14.06.2021 Project ft_services (school 21). Made docker container with mysql server.
 - 15.06.2021 Project ft_services (school 21). Made docker containers with Nginx, PhpMyAdmin, WordPress.
+- 16.06.2021 Project ft_services (school 21). Made docker containers with Ftps.
+- 17.06.2021 Project ft_services (school 21). Made docker containers with Grafana, InfluxDB.
 

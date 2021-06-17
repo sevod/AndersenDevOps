@@ -25,19 +25,19 @@ awk -F':' '/^Organization/ {print $2}' ; done
 
 # How to use this script.
 1. parameter - PID or name of process.
-2. parameter - number of rows (Default 5).
+2. parameter - number of rows (default 5).
 3. parameter - connection state. Not necessarily.
-    - ls - LISTEN
-    - cd - CLOSED
-    - ss - SYN_SENT
-    - sr - SYN_RECEIVED
-    - es - ESTABLISHED
-    - cw - CLOSE_WAIT
-    - fw - FIN_WAIT_1
-    - cg - CLOSING
-    - la - LAST_ACK
-    - fw2 - FIN_WAIT_2
-    - tw - TIME_WAIT
+   - ls - LISTEN
+   - cd - CLOSED
+   - ss - SYN_SENT
+   - sr - SYN_RECEIVED
+   - es - ESTABLISHED
+   - cw - CLOSE_WAIT
+   - fw - FIN_WAIT_1
+   - cg - CLOSING
+   - la - LAST_ACK
+   - fw2 - FIN_WAIT_2
+   - tw - TIME_WAIT
 
 ### Examples
 
