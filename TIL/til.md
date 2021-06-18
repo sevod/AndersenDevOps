@@ -17,4 +17,4 @@
 - 15.06.2021 Project ft_services (school 21). Made docker containers with Nginx, PhpMyAdmin, WordPress.
 - 16.06.2021 Project ft_services (school 21). Made docker containers with Ftps.
 - 17.06.2021 Project ft_services (school 21). Made docker containers with Grafana, InfluxDB.
-
+- 18.06.2021 Project Docker Compose. Started new educational project. [Docker Compose](https://github.com/sevod/DockerCompose)
