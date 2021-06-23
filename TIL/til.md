@@ -17,7 +17,9 @@
 - 15.06.2021 Project ft_services (school 21). Made docker containers with Nginx, PhpMyAdmin, WordPress.
 - 16.06.2021 Project ft_services (school 21). Made docker containers with Ftps.
 - 17.06.2021 Project ft_services (school 21). Made docker containers with Grafana, InfluxDB.
-- 18.06.2021 Project Docker Compose. Started new educational project. [Docker Compose](https://github.com/sevod/DockerCompose)
-- 19.06.2021 Project Docker Compose. Add nginx, wordpress and mariadb containers. [Docker Compose](https://github.com/sevod/DockerCompose)
-- 20.06.2021 Project Docker Compose. Try to set up redirect nginx to WordPress. [Docker Compose](https://github.com/sevod/DockerCompose)
+- 18.06.2021 Project Docker Compose. Started new educational project. 
+- 19.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add nginx, wordpress and mariadb containers.
+- 20.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Try to set up redirect nginx to WordPress.
 - 21.06.2021 Had a rest.
+- 22.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Set up nginx, wordpress and mariadb containers for work together.
+- 23.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add adminer container and re set up nginx container for work together.
