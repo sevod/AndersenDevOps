@@ -23,3 +23,4 @@
 - 21.06.2021 Had a rest.
 - 22.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Set up nginx, wordpress and mariadb containers for work together.
 - 23.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add adminer container and re set up nginx container for work together.
+- 24.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add radis container and re set up wordpress container for work together.
