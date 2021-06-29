@@ -25,3 +25,7 @@
 - 23.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add adminer container and re set up nginx container for work together.
 - 24.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add radis container and set up wordpress container for work together.
 - 25.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add ftp container and set up volume. The volume is the same as the volume of wordpress.
+- 26.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add simple website container.
+- 27.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add grafana container.
+- 28.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Add plugin for redis into grafana. 
+- 29.06.2021 Project [Docker Compose](https://github.com/sevod/DockerCompose). Cleaning the project and first attempt to pass.
